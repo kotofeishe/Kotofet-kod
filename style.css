@@ -1,0 +1,37 @@
+
+li {
+    list-style-type: none;
+    padding-right: 20px;
+
+}
+
+.list {
+    background-color: deeppink;
+    padding: 10px 15px;
+    margin: 0;
+    display: flex;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    
+    
+
+}
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+}
+
+.elem {
+    border: 1px solid blue;
+    height: 100px;
+    width: 400px;
+    float:left;
+}
+
